@@ -1,0 +1,7 @@
+#box1, #box2, #box3, #box4 {
+  width:180px;
+  border:1px solid #aaaaaa;
+  height:30px;
+  padding:10px;
+  text-align: center;
+}
